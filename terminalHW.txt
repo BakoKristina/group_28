@@ -1,4 +1,4 @@
-{ Kristina@Kristina-PC MINGW64 ~/Desktop/QA
+Kristina@Kristina-PC MINGW64 ~/Desktop/QA
 $ pwd
 /c/Users/Kristina/Desktop/QA
 
@@ -377,7 +377,3 @@ Kristina@Kristina-PC MINGW64 ~/Desktop/QA/dir_1
 $ echo Good job! ! 
 Good job! !
 
-
-
-
-}
